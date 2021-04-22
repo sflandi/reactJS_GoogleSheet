@@ -70,6 +70,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 #####################################################
+
 npm install semantic-ui-react semantic-ui-css
+
 npm install axios
+
 create account  https://sheet.best/ and copy link API to axios
