@@ -24,7 +24,7 @@ export default class App extends Component {
     e.preventDefault();
     console.log(this.state);
 
-    axios.post('https://sheet.best/api/sheets/15f46aa5-8462-42bc-beb1-8147f264fd87', this.state)
+    axios.post('url from shhetbest API', this.state)
     .then(response=>{
       console.log(response);
     })
