@@ -76,3 +76,7 @@ npm install semantic-ui-react semantic-ui-css
 npm install axios
 
 create account  https://sheet.best/ and copy link API to axios
+
+######################################################
+
+From amazing tutorial https://www.freecodecamp.org/news/react-and-googlesheets/
